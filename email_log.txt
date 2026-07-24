@@ -1,0 +1,58 @@
+=================================
+To: superadmin@school.com
+Subject: Password Reset - EduManage Pro
+Time: 2026-03-17 12:47:59
+Message:
+
+            <html>
+            <head>
+                <title>Password Reset</title>
+            </head>
+            <body style='font-family: Arial, sans-serif; background: #f5f5f5; padding: 20px;'>
+                <div style='max-width: 600px; margin: 0 auto; background: white; border-radius: 15px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.1);'>
+                    <div style='background: linear-gradient(135deg, #4361ee, #3a0ca3); padding: 30px; text-align: center;'>
+                        <h1 style='color: white; margin: 0;'>🔐 Password Reset</h1>
+                    </div>
+                    <div style='padding: 40px;'>
+                        <h2 style='color: #333;'>Hello Super Admin,</h2>
+                        <p style='color: #666; line-height: 1.6;'>You have requested to reset your password for EduManage Pro.</p>
+                        
+                        <div style='text-align: center; margin: 40px 0;'>
+                            <a href='http://localhost/school/reset_password.php?token=0746e88f85b5d861538d1306bc5432d56f1ff6d5ded5fd6636ffe757ad859018' style='background: linear-gradient(135deg, #4361ee, #3a0ca3); color: white; padding: 16px 40px; text-decoration: none; border-radius: 10px; font-weight: bold; font-size: 16px; display: inline-block; box-shadow: 0 5px 20px rgba(67, 97, 238, 0.3);'>
+                                Reset My Password
+                            </a>
+                        </div>
+                        
+                        <p style='color: #666; font-size: 14px;'><strong>⚠️ This link will expire in 15 minutes.</strong></p>
+                        
+                        <div style='background: #f8f9fa; padding: 20px; border-radius: 10px; margin-top: 30px;'>
+                            <p style='color: #666; font-size: 12px; margin: 0;'>
+                                <strong>Note for Parents:</strong> Your username is your child's Student ID.<br>
+                                If you didn't request this password reset, please ignore this email.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </body>
+            </html>
+            
+
+=================================
+Subject: 🔐 Password Reset Request - Bori Secondary School
+Time: 2026-03-17 23:21:33
+Message:
+
+            ===================================
+            PASSWORD RESET REQUEST
+            ===================================
+            
+            User: John Smith
+            Email: STU001
+            Role: parent
+            
+            Please reset this user's password to default (123456) and notify them.
+            
+            Request Time: 2026-03-17 23:21:33
+            ===================================
+            
+

@@ -1,0 +1,21 @@
+# Security headers
+Options -Indexes
+Header always set X-Content-Type-Options nosniff
+Header always set X-Frame-Options SAMEORIGIN
+Header always set X-XSS-Protection "1; mode=block"
+
+# Protect config file
+<Files "config.php">
+    Order deny,allow
+    Deny from all
+</Files>
+
+# Protect SQL file
+<Files "*.sql">
+    Order deny,allow
+    Deny from all
+</Files>
+
+# PHP error handling
+php_flag display_errors off
+php_value error_reporting 0
